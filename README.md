@@ -1,16 +1,18 @@
 ### Hi, lets automate? 
 
  
-### Technologies:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png"></code>
- 
+### ⚡ Skills & Technologies:
+<p align="left">
+<img src="https://www.jlcarneiro.com/wp-content/uploads/Image/galleries/java-200x200.png" alt="Java" height="30" style="vertical-align:top; margin:20px;color: #5f3594;">
+<img src="https://img.icons8.com/color/452/c-sharp-logo-2.png" alt="C#" height="30" style="vertical-align:top; margin:15px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="30" style="vertical-align:top; margin:15px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" height="30" style="vertical-align:top; margin:15px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="30" style="vertical-align:top; margin:15px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="30" style="vertical-align:top; margin:15px">
+<img src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png" alt="SQL Server" height="30" style="vertical-align:top; margin:15px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="30" style="vertical-align:top; margin:15px">
+</p>
+
 ![Gustavo Riquena GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gussriquena&show_icons=true&title_color=5f3594&icon_color=5f3594)
  
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gussriquena&hide=scss&layout=compact&theme=light&title_color=5f3594)
