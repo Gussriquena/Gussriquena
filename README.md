@@ -3,6 +3,7 @@
  
 ### ⚡ Skills & Technologies:
 <p align="left">
+ <img src="https://s2.glbimg.com/N8FKYDmY6AyyUX3eKuxAWk5spLM=/0x0:1600x1947/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/S/J/pcJD2pRbSUjFyZ9ALv6Q/periclesfoto02.png" alt="Java" height="30" style="vertical-align:top; margin:20px;color: #5f3594;">
 <img src="https://www.jlcarneiro.com/wp-content/uploads/Image/galleries/java-200x200.png" alt="Java" height="30" style="vertical-align:top; margin:20px;color: #5f3594;">
 <img src="https://img.icons8.com/color/452/c-sharp-logo-2.png" alt="C#" height="30" style="vertical-align:top; margin:15px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="30" style="vertical-align:top; margin:15px">
