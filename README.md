@@ -4,7 +4,6 @@
 ### ⚡ Skills & Technologies:
 <p align="left">
 <img src="https://www.jlcarneiro.com/wp-content/uploads/Image/galleries/java-200x200.png" alt="Java" height="30" style="vertical-align:top; margin:20px;color: #5f3594;">
-<img src="https://img.icons8.com/color/452/c-sharp-logo-2.png" alt="C#" height="30" style="vertical-align:top; margin:15px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="30" style="vertical-align:top; margin:15px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" height="30" style="vertical-align:top; margin:15px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="30" style="vertical-align:top; margin:15px">
