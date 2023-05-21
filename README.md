@@ -1,5 +1,6 @@
 ### Hi, lets automate? 
 
+As a mid-level Java backend developer with six years of experience, proficient in Java microservices development and RPA
  
 ### ⚡ Skills & Technologies:
 <p align="left">
