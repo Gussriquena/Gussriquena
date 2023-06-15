@@ -2,7 +2,7 @@
 
 Java backend developer with six years of experience, proficient in Java microservices development and RPA
  
-### ⚡ Skills & Technologies:
+### ⚡ Main Skills
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,spring,git,gitlab,aws,docker,postgres,mysql,postman,jenkins&theme=light" />
 </p>
