@@ -4,6 +4,7 @@ Java backend developer with six years of experience, proficient in Java microser
 
 - ☕ Specializing in Java
 - 🌱 Currently learning more about Unit Tests and System Design/architecture
+- 💻 Always learning how to improve my Code Quality with patterns and best practices
  
 ### ⚡ Main Skills
 <p align="left">
