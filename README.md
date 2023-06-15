@@ -5,7 +5,9 @@ Java backend developer with six years of experience, proficient in Java microser
 ### ⚡ Main Skills
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,git,gitlab,aws&theme=light" />
- <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,postman,jenkins,selenium,dotnet&theme=light" />
+</p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,postgres,mysql,postman,jenkins,selenium,dotnet&theme=light" />
 </p>
 
 ![Gustavo Riquena GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gussriquena&show_icons=true&title_color=5f3594&icon_color=5f3594)
