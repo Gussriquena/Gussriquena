@@ -2,7 +2,8 @@
 
 Java backend developer with six years of experience, proficient in Java microservices development and RPA
 
-- 🔭 I’m currently working as Micro-services developer
+- ☕ Specializing in Java
+- 🌱 Currently learning more about Unit Tests and System Design/architecture
  
 ### ⚡ Main Skills
 <p align="left">
