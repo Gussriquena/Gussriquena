@@ -1,6 +1,8 @@
 ### Hi, lets Code? 
 
 Java backend developer with six years of experience, proficient in Java microservices development and RPA
+
+- 🔭 I’m currently working as Micro-services developer
  
 ### ⚡ Main Skills
 <p align="left">
@@ -10,9 +12,9 @@ Java backend developer with six years of experience, proficient in Java microser
 <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,postman,jenkins,selenium,dotnet&theme=light" />
 </p>
 
-![Gustavo Riquena GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gussriquena&show_icons=true&title_color=5f3594&icon_color=5f3594)
+![Gustavo Riquena GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gussriquena&show_icons=true&title_color=0223db&icon_color=0223db)
  
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gussriquena&hide=scss&layout=compact&theme=light&title_color=5f3594)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gussriquena&hide=scss&layout=compact&theme=light&title_color=0223db)
 
 <!--
 **Gussriquena/Gussriquena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
