@@ -1,9 +1,9 @@
 ### Hi, lets Code? 
 
-Java backend developer with six years of experience, proficient in Java microservices development and RPA
+Java backend developer with six years of experience, proficient in Java weg services development (microservices, event-driven) and RPA.
 
 - ☕ Specializing in Java
-- 🌱 Currently learning more about Unit Tests and System Design/architecture
+- 🌱 Currently learning more about Software testing (unit, integrated) and System Design/architecture
 - 💻 Always learning how to improve my Code Quality
  
 ### Main Skills
